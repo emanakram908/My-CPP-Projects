@@ -11,3 +11,14 @@ Collection of 5 beginner C++ console programs built while learning fundamentals 
 - Language: C++
 - IDE: Dev-C++
 - Concepts: Functions, Loops, Conditionals, Menu-Driven Programs
+  \\Screenshots
+ 1. Calculator
+![Calculator](calculator.PNG)
+ 2. Grade Calculator
+![Grade Calculator](Gradecalculator.PNG)
+3. Number Guessing Game
+![Number Guessing](numberguessinggameoutput.PNG)
+4. ATM Machine
+![ATM Machine](ATM.Machine.PNG)
+5. Pattern Printing
+![Pattern Printing](pattrenprinting.PNG)
